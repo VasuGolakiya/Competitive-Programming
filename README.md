@@ -1,3 +1,3 @@
 # Competitive-Programming
 
-My templates which I use for competitive programming.
+Useful Templates for CP
